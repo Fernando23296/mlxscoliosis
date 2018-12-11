@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="230d71f0-52e5-4dc6-893e-cd58204819a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../debug_proyecto3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../debug_proyecto3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto_beta4/sistema/flaskblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/../proyecto_beta4/sistema/flaskblog/site.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/sistema/flaskblog/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema/flaskblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/sistema/flaskblog/site.db" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1566555380">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
+          <entry key="UML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/upload.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/upload.py</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.5682328561643242" x="137.4213409423828" y="293.9487762451172" />
+              <SelectedNodes />
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/routes.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/routes.py</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+              <SelectedNodes />
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/forms.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/forms.py</OriginalElement>
+              <nodes>
+                <node x="262.0" y="133.5">sistema.flaskblog.forms.ResetPasswordForm</node>
+                <node x="898.0" y="100.0">sistema.flaskblog.forms.UpdateAccountForm</node>
+                <node x="590.0" y="89.0">sistema.flaskblog.forms.RegistrationForm</node>
+                <node x="1824.0" y="122.5">sistema.flaskblog.forms.LoginForm</node>
+                <node x="1547.0" y="133.5">sistema.flaskblog.forms.PatientForm</node>
+                <node x="1229.0" y="133.0">sistema.flaskblog.forms.RequestResetForm</node>
+                <node x="1006.5" y="0.0">FlaskForm</node>
+                <node x="0.0" y="133.5">sistema.flaskblog.forms.PostForm</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="sistema.flaskblog.forms.UpdateAccountForm" target="FlaskForm">
+                  <point x="0.0" y="-81.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="sistema.flaskblog.forms.PostForm" target="FlaskForm">
+                  <point x="0.0" y="-47.5" />
+                  <point x="121.0" y="49.0" />
+                  <point x="1013.2142857142857" y="49.0" />
+                  <point x="-40.285714285714334" y="14.5" />
+                </edge>
+                <edge source="sistema.flaskblog.forms.RequestResetForm" target="FlaskForm">
+                  <point x="0.0" y="-48.0" />
+                  <point x="1378.0" y="69.0" />
+                  <point x="1066.9285714285716" y="69.0" />
+                  <point x="13.428571428571445" y="14.5" />
+                </edge>
+                <edge source="sistema.flaskblog.forms.PatientForm" target="FlaskForm">
+                  <point x="0.0" y="-47.5" />
+                  <point x="1675.5" y="59.0" />
+                  <point x="1080.357142857143" y="59.0" />
+                  <point x="26.85714285714289" y="14.5" />
+                </edge>
+                <edge source="sistema.flaskblog.forms.ResetPasswordForm" target="FlaskForm">
+                  <point x="0.0" y="-47.5" />
+                  <point x="416.0" y="59.0" />
+                  <point x="1026.642857142857" y="59.0" />
+                  <point x="-26.85714285714289" y="14.5" />
+                </edge>
+                <edge source="sistema.flaskblog.forms.LoginForm" target="FlaskForm">
+                  <point x="0.0" y="-58.5" />
+                  <point x="1948.0" y="49.0" />
+                  <point x="1093.7857142857142" y="49.0" />
+                  <point x="40.28571428571422" y="14.5" />
+                </edge>
+                <edge source="sistema.flaskblog.forms.RegistrationForm" target="FlaskForm">
+                  <point x="0.0" y="-92.0" />
+                  <point x="734.0" y="69.0" />
+                  <point x="1040.0714285714284" y="69.0" />
+                  <point x="-13.428571428571445" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.1826566938371184" x="822.9329400921263" y="191.93294009212622" />
+              <SelectedNodes>
+                <node>sistema.flaskblog.forms.PatientForm</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+                <Category>Fields</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/flaskblog/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/flaskblog/defs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2475">
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/flaskblog/def_plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-555">
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sistema/flaskblog/cnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sistema/flaskblog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proyecto_beta5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyecto_beta5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyecto_beta5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyecto_beta5" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyecto_beta5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyecto_beta5" type="462c0819:PsiDirectoryNode" />
+              <item name="sistema" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6">
+        <option name="mySdkHome" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="230d71f0-52e5-4dc6-893e-cd58204819a4" name="Default Changelist" comment="" />
+      <created>1543255390055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543255390055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sistema/flaskblog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/forms.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/forms.py</OriginalElement>
+          <nodes>
+            <node x="262.0" y="133.5">sistema.flaskblog.forms.ResetPasswordForm</node>
+            <node x="898.0" y="100.0">sistema.flaskblog.forms.UpdateAccountForm</node>
+            <node x="590.0" y="89.0">sistema.flaskblog.forms.RegistrationForm</node>
+            <node x="1824.0" y="122.5">sistema.flaskblog.forms.LoginForm</node>
+            <node x="1547.0" y="133.5">sistema.flaskblog.forms.PatientForm</node>
+            <node x="1229.0" y="133.0">sistema.flaskblog.forms.RequestResetForm</node>
+            <node x="1006.5" y="0.0">FlaskForm</node>
+            <node x="0.0" y="133.5">sistema.flaskblog.forms.PostForm</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="sistema.flaskblog.forms.UpdateAccountForm" target="FlaskForm">
+              <point x="0.0" y="-81.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="sistema.flaskblog.forms.PostForm" target="FlaskForm">
+              <point x="0.0" y="-47.5" />
+              <point x="121.0" y="49.0" />
+              <point x="1013.2142857142857" y="49.0" />
+              <point x="-40.285714285714334" y="14.5" />
+            </edge>
+            <edge source="sistema.flaskblog.forms.RequestResetForm" target="FlaskForm">
+              <point x="0.0" y="-48.0" />
+              <point x="1378.0" y="69.0" />
+              <point x="1066.9285714285716" y="69.0" />
+              <point x="13.428571428571445" y="14.5" />
+            </edge>
+            <edge source="sistema.flaskblog.forms.PatientForm" target="FlaskForm">
+              <point x="0.0" y="-47.5" />
+              <point x="1675.5" y="59.0" />
+              <point x="1080.357142857143" y="59.0" />
+              <point x="26.85714285714289" y="14.5" />
+            </edge>
+            <edge source="sistema.flaskblog.forms.ResetPasswordForm" target="FlaskForm">
+              <point x="0.0" y="-47.5" />
+              <point x="416.0" y="59.0" />
+              <point x="1026.642857142857" y="59.0" />
+              <point x="-26.85714285714289" y="14.5" />
+            </edge>
+            <edge source="sistema.flaskblog.forms.LoginForm" target="FlaskForm">
+              <point x="0.0" y="-58.5" />
+              <point x="1948.0" y="49.0" />
+              <point x="1093.7857142857142" y="49.0" />
+              <point x="40.28571428571422" y="14.5" />
+            </edge>
+            <edge source="sistema.flaskblog.forms.RegistrationForm" target="FlaskForm">
+              <point x="0.0" y="-92.0" />
+              <point x="734.0" y="69.0" />
+              <point x="1040.0714285714284" y="69.0" />
+              <point x="-13.428571428571445" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1826566938371184" x="822.9329400921263" y="191.93294009212622" />
+          <SelectedNodes>
+            <node>sistema.flaskblog.forms.PatientForm</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/routes.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/flaskblog/routes.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/upload.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/brunosilva/Desktop/files/L/l_proy/proyecto_beta5/sistema/upload.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5682328561643242" x="137.4213409423828" y="293.9487762451172" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/flaskblog/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/flaskblog/defs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2475">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/flaskblog/def_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistema/flaskblog/cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
