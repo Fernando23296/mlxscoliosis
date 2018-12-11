@@ -100,7 +100,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
 	#plt.plot(point_prueba3,point_prueba4, marker = 'o')
 
 	
-    #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
     #calculo de c
     x1=inflex_x[0]
     y1=inflex_y[0]
@@ -116,7 +115,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
     
     print("c",c)
 
-    #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
     #calculo de a
     x3=inflex_x[0]
     y3=inflex_y[0]
@@ -127,7 +125,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
     a=sum2**0.5
     print("a",a)
 
-    #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
 
     #calculo de b
     x5=inflex_x[1]
@@ -139,7 +136,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
     b=sum3**0.5
     print("b",b)
 
-  #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
 
     #calculo de angulo
     cos_a=((a**2)-(b**2)-(c**2))/(-2*(b*c))
@@ -163,7 +159,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
     '''
     c_ultimo=180-c_angle
     print("Angulo superior: ",c_ultimo)
-    #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
     #calculo de c
     x1_1=inflex_x[1]
     y1_1=inflex_y[1]
@@ -174,7 +169,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
     
     c_1=sum1_1**0.5
     
-    #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
     #calculo de a
     x3_1=inflex_x[1]
     y3_1=inflex_y[1]
@@ -184,7 +178,6 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
 
     a_1=sum2_1**0.5
     
-    #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
 
     #calculo de b
     x5_1=inflex_x[2]
@@ -195,7 +188,7 @@ def img_plot(x_new2,y_new,file_name,fig,ax,a_2,b_2,aaa,bbb):
 
     b_1=sum3_1**0.5
  
-  #.dadadadasdasdasdasdasdasdasdasdasdadsadasdasdasdsadasdadfsdffadaddadadasdasdasdasdsaddasdadasdsadasd
+
 
     #calculo de angulo
     cos_a_1=((a_1**2)-(b_1**2)-(c_1**2))/(-2*(b_1*c_1))
